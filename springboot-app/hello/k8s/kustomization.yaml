@@ -10,4 +10,4 @@ resources:
 images:
 - name: bi7179/hello-app
   newName: bi7179/hello-app
-  newTag: 95bc80f
+  newTag: bf514e3
